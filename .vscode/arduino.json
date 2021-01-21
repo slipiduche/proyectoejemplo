@@ -1,0 +1,4 @@
+{
+    "sketch": "proyectoejemplo.ino",
+    "board": "arduino:avr:uno"
+}
